@@ -2,6 +2,11 @@
 
 This is a setup template for hubot with hubot-irc
 
+# Requirement
+* [Node.js](http://nodejs.org/)
+* [CoffeeScript](http://coffeescript.org/)
+* [Redis](http://redis.io/)
+
 # How to use?
 
 ## Install hubot
