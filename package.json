@@ -1,0 +1,8 @@
+{
+  "name": "hubot-ircbot-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "hubot": "2.3.0",
+    "hubot-irc": "0.1.0"
+  }
+}
